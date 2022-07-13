@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Hello my great lab!!!!!!!!
 String 2 file1
 String 3 file1
+=======
+Hello my great lab
+String 2 for test
+String 3 for test
+>>>>>>> Dev
