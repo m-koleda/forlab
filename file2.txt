@@ -1,2 +1,4 @@
 Hello my great lab 2
-String 2 for test
+String 2 file2
+String 3 file3
+Pobistree davai zakanchivat'
