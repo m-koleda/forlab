@@ -1,1 +1,2 @@
 Hello my great lab 2
+String 2 for test
